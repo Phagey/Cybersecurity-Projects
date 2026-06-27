@@ -9,9 +9,9 @@ Tracking my cybersecurity learning journey
 |------|-------|
 | 👤 Username | [ayomiolutoye](https://tryhackme.com/p/ayomiolutoye) |
 | 🏆 Rank | [0x8] HACKER (#125862 — Top 6%) |
-| 💰 Points | 34 |
-| 🔥 Current Streak | 80 days |
-| ✅ Rooms Completed | 61 |
+| 💰 Points | 50 |
+| 🔥 Current Streak | 81 days |
+| ✅ Rooms Completed | 62 |
 | 🎖️ Badges Earned | 12 |
 
 ### 🧠 Skills Gained
@@ -31,7 +31,7 @@ Networking, Linux, Windows, Active Directory, Web Application Security, Cryptogr
 - 🛡️ Metasploitable — Contains the knowledge to use Metasploit (Rare: 9.6%)
 - 🪟 Blue — Hacking into Windows via EternalBlue
 
-### 📚 Completed Rooms (61)
+### 📚 Completed Rooms (62)
 - [How Websites Work](https://tryhackme.com/room/howwebsiteswork)
 - [Putting it all together](https://tryhackme.com/room/puttingitalltogether)
 - [DNS in Detail](https://tryhackme.com/room/dnsindetail)
@@ -93,6 +93,7 @@ Networking, Linux, Windows, Active Directory, Web Application Security, Cryptogr
 - [JavaScript Essentials](https://tryhackme.com/room/javascriptessentials)
 - [Web Application Basics](https://tryhackme.com/room/webapplicationbasics)
 - [SQL Fundamentals](https://tryhackme.com/room/sqlfundamentals)
+- [Hydra](https://tryhackme.com/room/hydra)
 
-> _Last updated: 2026-06-27 03:56 UTC_
+> _Last updated: 2026-06-28 00:00 UTC_
 <!-- THM-STATS:END -->
