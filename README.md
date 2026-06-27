@@ -8,14 +8,14 @@ Tracking my cybersecurity learning journey
 | Stat | Value |
 |------|-------|
 | 👤 Username | [ayomiolutoye](https://tryhackme.com/p/ayomiolutoye) |
-| 🏆 Rank | [0x8] HACKER (#123223 — Top 6%) |
-| 🎯 Capability Score | 34 |
+| 🏆 Rank | [0x8] HACKER (#125862 — Top 6%) |
+| 💰 Points | 34 |
 | 🔥 Current Streak | 80 days |
-| ✅ Rooms Completed | 63 |
+| ✅ Rooms Completed | 61 |
 | 🎖️ Badges Earned | 12 |
 
 ### 🧠 Skills Gained
-Networking, Linux, Windows, Active Directory, Web Application Security, Cryptography, SQL, Nmap, Metasploit, Wireshark, Tcpdump, PowerShell, Python, JavaScript, Cloud Computing, Offensive Security, Defensive Security, Burp Suite
+Networking, Linux, Windows, Active Directory, Web Application Security, Cryptography, SQL, Nmap, Metasploit, Wireshark, Tcpdump, PowerShell, Python, JavaScript, Cloud Computing, Offensive Security, Defensive Security
 
 ### 🎖️ Badges
 - 🎳 First Four — Completing four rooms in your first week
@@ -31,7 +31,7 @@ Networking, Linux, Windows, Active Directory, Web Application Security, Cryptogr
 - 🛡️ Metasploitable — Contains the knowledge to use Metasploit (Rare: 9.6%)
 - 🪟 Blue — Hacking into Windows via EternalBlue
 
-### 📚 Completed Rooms (63)
+### 📚 Completed Rooms (61)
 - [How Websites Work](https://tryhackme.com/room/howwebsiteswork)
 - [Putting it all together](https://tryhackme.com/room/puttingitalltogether)
 - [DNS in Detail](https://tryhackme.com/room/dnsindetail)
@@ -93,7 +93,6 @@ Networking, Linux, Windows, Active Directory, Web Application Security, Cryptogr
 - [JavaScript Essentials](https://tryhackme.com/room/javascriptessentials)
 - [Web Application Basics](https://tryhackme.com/room/webapplicationbasics)
 - [SQL Fundamentals](https://tryhackme.com/room/sqlfundamentals)
-- [Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)
 
-> _Last updated: 2026-06-26_
+> _Last updated: 2026-06-27 03:56 UTC_
 <!-- THM-STATS:END -->
