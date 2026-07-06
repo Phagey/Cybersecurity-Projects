@@ -6,8 +6,8 @@ USERNAME = "ayomiolutoye"
 POINTS = 34
 STREAK = 90
 RANK = "[0x8] HACKER"
-RANK_POSITION = 125862
-TOP_PERCENT = "6%"
+RANK_POSITION = 163430
+TOP_PERCENT = "7%"
 
 COMPLETED_ROOMS = [
     {"title": "How Websites Work", "url": "https://tryhackme.com/room/howwebsiteswork"},
@@ -71,8 +71,11 @@ COMPLETED_ROOMS = [
     {"title": "JavaScript Essentials", "url": "https://tryhackme.com/room/javascriptessentials"},
     {"title": "Web Application Basics", "url": "https://tryhackme.com/room/webapplicationbasics"},
     {"title": "SQL Fundamentals", "url": "https://tryhackme.com/room/sqlfundamentals"},
-    {"title": "Shells Overview", "url": "https://tryhackme.com/room/shellsoverview"},
+    {"title": "Hydra", "url": "https://tryhackme.com/room/hydra"},
+    {"title": "Burp Suite: The Basics", "url": "https://tryhackme.com/room/burpsuitebasics"},
+    {"title": "Gobuster: The Basics", "url": "https://tryhackme.com/room/gobusterbasics"},
     {"title": "SQLMap: The Basics", "url": "https://tryhackme.com/room/sqlmap"},
+    {"title": "Shells Overview", "url": "https://tryhackme.com/room/shellsoverview"},
 ]
 
 BADGES = [
@@ -89,6 +92,7 @@ BADGES = [
     "🛡️ Metasploitable — Contains the knowledge to use Metasploit (Rare: 9.6%)",
     "🪟 Blue — Hacking into Windows via EternalBlue",
     "🗡️ Sword Apprentice — Completing the SQLMap room",
+    "🔥 90 Day Streak — Hacking for 90 days in a row",
 ]
 
 SKILLS = [
