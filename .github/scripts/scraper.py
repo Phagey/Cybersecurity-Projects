@@ -4,7 +4,7 @@ from datetime import datetime
 # ✏️ UPDATE THESE MANUALLY whenever your stats change
 USERNAME = "ayomiolutoye"
 POINTS = 34
-STREAK = 80
+STREAK = 90
 RANK = "[0x8] HACKER"
 RANK_POSITION = 125862
 TOP_PERCENT = "6%"
