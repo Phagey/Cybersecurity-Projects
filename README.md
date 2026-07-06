@@ -8,11 +8,11 @@ Tracking my cybersecurity learning journey
 | Stat | Value |
 |------|-------|
 | 👤 Username | [ayomiolutoye](https://tryhackme.com/p/ayomiolutoye) |
-| 🏆 Rank | [0x8] HACKER (#125862 — Top 6%) |
+| 🏆 Rank | [0x8] HACKER (#163430 — Top 7%) |
 | 💰 Points | 34 |
-| 🔥 Current Streak | 80 days |
-| ✅ Rooms Completed | 63 |
-| 🎖️ Badges Earned | 13 |
+| 🔥 Current Streak | 90 days |
+| ✅ Rooms Completed | 66 |
+| 🎖️ Badges Earned | 14 |
 
 ### 🧠 Skills Gained
 Networking, Linux, Windows, Active Directory, Web Application Security, Cryptography, SQL, Nmap, Metasploit, Wireshark, Tcpdump, PowerShell, Python, JavaScript, Cloud Computing, Offensive Security, Defensive Security
@@ -31,8 +31,9 @@ Networking, Linux, Windows, Active Directory, Web Application Security, Cryptogr
 - 🛡️ Metasploitable — Contains the knowledge to use Metasploit (Rare: 9.6%)
 - 🪟 Blue — Hacking into Windows via EternalBlue
 - 🗡️ Sword Apprentice — Completing the SQLMap room
+- 🔥 90 Day Streak — Hacking for 90 days in a row
 
-### 📚 Completed Rooms (63)
+### 📚 Completed Rooms (66)
 - [How Websites Work](https://tryhackme.com/room/howwebsiteswork)
 - [Putting it all together](https://tryhackme.com/room/puttingitalltogether)
 - [DNS in Detail](https://tryhackme.com/room/dnsindetail)
@@ -94,8 +95,11 @@ Networking, Linux, Windows, Active Directory, Web Application Security, Cryptogr
 - [JavaScript Essentials](https://tryhackme.com/room/javascriptessentials)
 - [Web Application Basics](https://tryhackme.com/room/webapplicationbasics)
 - [SQL Fundamentals](https://tryhackme.com/room/sqlfundamentals)
-- [Shells Overview](https://tryhackme.com/room/shellsoverview)
+- [Hydra](https://tryhackme.com/room/hydra)
+- [Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)
+- [Gobuster: The Basics](https://tryhackme.com/room/gobusterbasics)
 - [SQLMap: The Basics](https://tryhackme.com/room/sqlmap)
+- [Shells Overview](https://tryhackme.com/room/shellsoverview)
 
-> _Last updated: 2026-07-06 02:08 UTC_
+> _Last updated: 2026-07-06 02:23 UTC_
 <!-- THM-STATS:END -->
