@@ -71,6 +71,8 @@ COMPLETED_ROOMS = [
     {"title": "JavaScript Essentials", "url": "https://tryhackme.com/room/javascriptessentials"},
     {"title": "Web Application Basics", "url": "https://tryhackme.com/room/webapplicationbasics"},
     {"title": "SQL Fundamentals", "url": "https://tryhackme.com/room/sqlfundamentals"},
+    {"title": "Shells Overview", "url": "https://tryhackme.com/room/shellsoverview"},
+    {"title": "SQLMap: The Basics", "url": "https://tryhackme.com/room/sqlmap"},
 ]
 
 BADGES = [
@@ -86,6 +88,7 @@ BADGES = [
     "🥇 Platinum League — Platinum League 1st place (Epic: 0.9%)",
     "🛡️ Metasploitable — Contains the knowledge to use Metasploit (Rare: 9.6%)",
     "🪟 Blue — Hacking into Windows via EternalBlue",
+    "🗡️ Sword Apprentice — Completing the SQLMap room",
 ]
 
 SKILLS = [
