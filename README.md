@@ -11,8 +11,8 @@ Tracking my cybersecurity learning journey
 | 🏆 Rank | [0x8] HACKER (#125862 — Top 6%) |
 | 💰 Points | 34 |
 | 🔥 Current Streak | 80 days |
-| ✅ Rooms Completed | 61 |
-| 🎖️ Badges Earned | 12 |
+| ✅ Rooms Completed | 63 |
+| 🎖️ Badges Earned | 13 |
 
 ### 🧠 Skills Gained
 Networking, Linux, Windows, Active Directory, Web Application Security, Cryptography, SQL, Nmap, Metasploit, Wireshark, Tcpdump, PowerShell, Python, JavaScript, Cloud Computing, Offensive Security, Defensive Security
@@ -30,8 +30,9 @@ Networking, Linux, Windows, Active Directory, Web Application Security, Cryptogr
 - 🥇 Platinum League — Platinum League 1st place (Epic: 0.9%)
 - 🛡️ Metasploitable — Contains the knowledge to use Metasploit (Rare: 9.6%)
 - 🪟 Blue — Hacking into Windows via EternalBlue
+- 🗡️ Sword Apprentice — Completing the SQLMap room
 
-### 📚 Completed Rooms (61)
+### 📚 Completed Rooms (63)
 - [How Websites Work](https://tryhackme.com/room/howwebsiteswork)
 - [Putting it all together](https://tryhackme.com/room/puttingitalltogether)
 - [DNS in Detail](https://tryhackme.com/room/dnsindetail)
@@ -93,6 +94,8 @@ Networking, Linux, Windows, Active Directory, Web Application Security, Cryptogr
 - [JavaScript Essentials](https://tryhackme.com/room/javascriptessentials)
 - [Web Application Basics](https://tryhackme.com/room/webapplicationbasics)
 - [SQL Fundamentals](https://tryhackme.com/room/sqlfundamentals)
+- [Shells Overview](https://tryhackme.com/room/shellsoverview)
+- [SQLMap: The Basics](https://tryhackme.com/room/sqlmap)
 
-> _Last updated: 2026-07-05 03:57 UTC_
+> _Last updated: 2026-07-06 02:08 UTC_
 <!-- THM-STATS:END -->
