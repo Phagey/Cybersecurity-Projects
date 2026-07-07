@@ -29,6 +29,7 @@ COMPLETED_ROOMS = [
     {"title": "Operating System Security", "url": "https://tryhackme.com/room/operatingsystemsecurity"},
     {"title": "Search Skills", "url": "https://tryhackme.com/room/searchskills"},
     {"title": "Operating Systems: Introduction", "url": "https://tryhackme.com/room/operatingsystemsintroduction"},
+    {"title": "Search Skills", "url": "https://tryhackme.com/room/searchskills"},  # ⚠️ this room shows up twice on your profile (likely counted under two different learning paths) — leaving it duplicated so the total matches your 68
     {"title": "Linux CLI Basics", "url": "https://tryhackme.com/room/linuxclibasics"},
     {"title": "Data Representation", "url": "https://tryhackme.com/room/datarepresentation"},
     {"title": "Data Encoding", "url": "https://tryhackme.com/room/dataencoding"},
