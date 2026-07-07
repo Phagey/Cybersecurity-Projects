@@ -11,7 +11,7 @@ Tracking my cybersecurity learning journey
 | 🏆 Rank | [0x8] HACKER (#159518 — Top 7%) |
 | 💰 Points | 34 |
 | 🔥 Current Streak | 91 days |
-| ✅ Rooms Completed | 67 |
+| ✅ Rooms Completed | 68 |
 | 🎖️ Badges Earned | 14 |
 
 ### 🧠 Skills Gained
@@ -33,7 +33,7 @@ Networking, Linux, Windows, Active Directory, Web Application Security, Cryptogr
 - 🗡️ Sword Apprentice — Completing the SQLMap room
 - 🔥 90 Day Streak — Hacking for 90 days in a row
 
-### 📚 Completed Rooms (67)
+### 📚 Completed Rooms (68)
 - [How Websites Work](https://tryhackme.com/room/howwebsiteswork)
 - [Putting it all together](https://tryhackme.com/room/puttingitalltogether)
 - [DNS in Detail](https://tryhackme.com/room/dnsindetail)
@@ -53,6 +53,7 @@ Networking, Linux, Windows, Active Directory, Web Application Security, Cryptogr
 - [Operating System Security](https://tryhackme.com/room/operatingsystemsecurity)
 - [Search Skills](https://tryhackme.com/room/searchskills)
 - [Operating Systems: Introduction](https://tryhackme.com/room/operatingsystemsintroduction)
+- [Search Skills](https://tryhackme.com/room/searchskills)
 - [Linux CLI Basics](https://tryhackme.com/room/linuxclibasics)
 - [Data Representation](https://tryhackme.com/room/datarepresentation)
 - [Data Encoding](https://tryhackme.com/room/dataencoding)
@@ -102,5 +103,5 @@ Networking, Linux, Windows, Active Directory, Web Application Security, Cryptogr
 - [Shells Overview](https://tryhackme.com/room/shellsoverview)
 - [SOC Fundamentals](https://tryhackme.com/room/socfundamentals)
 
-> _Last updated: 2026-07-07 10:13 UTC_
+> _Last updated: 2026-07-07 10:22 UTC_
 <!-- THM-STATS:END -->
