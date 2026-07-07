@@ -101,5 +101,5 @@ Networking, Linux, Windows, Active Directory, Web Application Security, Cryptogr
 - [SQLMap: The Basics](https://tryhackme.com/room/sqlmap)
 - [Shells Overview](https://tryhackme.com/room/shellsoverview)
 
-> _Last updated: 2026-07-06 04:03 UTC_
+> _Last updated: 2026-07-07 03:54 UTC_
 <!-- THM-STATS:END -->
