@@ -8,10 +8,10 @@ Tracking my cybersecurity learning journey
 | Stat | Value |
 |------|-------|
 | 👤 Username | [ayomiolutoye](https://tryhackme.com/p/ayomiolutoye) |
-| 🏆 Rank | [0x8] HACKER (#163430 — Top 7%) |
+| 🏆 Rank | [0x8] HACKER (#159518 — Top 7%) |
 | 💰 Points | 34 |
-| 🔥 Current Streak | 90 days |
-| ✅ Rooms Completed | 66 |
+| 🔥 Current Streak | 91 days |
+| ✅ Rooms Completed | 67 |
 | 🎖️ Badges Earned | 14 |
 
 ### 🧠 Skills Gained
@@ -33,7 +33,7 @@ Networking, Linux, Windows, Active Directory, Web Application Security, Cryptogr
 - 🗡️ Sword Apprentice — Completing the SQLMap room
 - 🔥 90 Day Streak — Hacking for 90 days in a row
 
-### 📚 Completed Rooms (66)
+### 📚 Completed Rooms (67)
 - [How Websites Work](https://tryhackme.com/room/howwebsiteswork)
 - [Putting it all together](https://tryhackme.com/room/puttingitalltogether)
 - [DNS in Detail](https://tryhackme.com/room/dnsindetail)
@@ -100,6 +100,7 @@ Networking, Linux, Windows, Active Directory, Web Application Security, Cryptogr
 - [Gobuster: The Basics](https://tryhackme.com/room/gobusterbasics)
 - [SQLMap: The Basics](https://tryhackme.com/room/sqlmap)
 - [Shells Overview](https://tryhackme.com/room/shellsoverview)
+- [SOC Fundamentals](https://tryhackme.com/room/socfundamentals)
 
-> _Last updated: 2026-07-07 03:54 UTC_
+> _Last updated: 2026-07-07 10:13 UTC_
 <!-- THM-STATS:END -->
