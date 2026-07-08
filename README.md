@@ -103,5 +103,5 @@ Networking, Linux, Windows, Active Directory, Web Application Security, Cryptogr
 - [Shells Overview](https://tryhackme.com/room/shellsoverview)
 - [SOC Fundamentals](https://tryhackme.com/room/socfundamentals)
 
-> _Last updated: 2026-07-07 10:22 UTC_
+> _Last updated: 2026-07-08 03:20 UTC_
 <!-- THM-STATS:END -->
