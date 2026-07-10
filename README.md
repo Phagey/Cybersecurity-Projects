@@ -104,5 +104,5 @@ Networking, Linux, Windows, Active Directory, Web Application Security, Cryptogr
 - [SOC Fundamentals](https://tryhackme.com/room/socfundamentals)
 - [Digital Forensics Fundamentals](https://tryhackme.com/room/digitalforensicsfundamentals)
 
-> _Last updated: 2026-07-09 03:47 UTC_
+> _Last updated: 2026-07-10 03:49 UTC_
 <!-- THM-STATS:END -->
