@@ -8,14 +8,14 @@ Tracking my cybersecurity learning journey
 | Stat | Value |
 |------|-------|
 | 👤 Username | [ayomiolutoye](https://tryhackme.com/p/ayomiolutoye) |
-| 🏆 Rank | [0x8] HACKER (#157127 — Top 7%) |
+| 🏆 Rank | [0x8] HACKER (#154113 — Top 7%) |
 | 💰 Points | 34 |
-| 🔥 Current Streak | 92 days |
-| ✅ Rooms Completed | 69 |
+| 🔥 Current Streak | 96 days |
+| ✅ Rooms Completed | 70 |
 | 🎖️ Badges Earned | 14 |
 
 ### 🧠 Skills Gained
-Networking, Linux, Windows, Active Directory, Web Application Security, Cryptography, SQL, Nmap, Metasploit, Wireshark, Tcpdump, PowerShell, Python, JavaScript, Cloud Computing, Offensive Security, Defensive Security, Digital Forensics
+Networking, Linux, Windows, Active Directory, Web Application Security, Cryptography, SQL, Nmap, Metasploit, Wireshark, Tcpdump, PowerShell, Python, JavaScript, Cloud Computing, Offensive Security, Defensive Security, Digital Forensics, Incident Response
 
 ### 🎖️ Badges
 - 🎳 First Four — Completing four rooms in your first week
@@ -33,7 +33,7 @@ Networking, Linux, Windows, Active Directory, Web Application Security, Cryptogr
 - 🗡️ Sword Apprentice — Completing the SQLMap room
 - 🔥 90 Day Streak — Hacking for 90 days in a row
 
-### 📚 Completed Rooms (69)
+### 📚 Completed Rooms (70)
 - [How Websites Work](https://tryhackme.com/room/howwebsiteswork)
 - [Putting it all together](https://tryhackme.com/room/puttingitalltogether)
 - [DNS in Detail](https://tryhackme.com/room/dnsindetail)
@@ -103,6 +103,7 @@ Networking, Linux, Windows, Active Directory, Web Application Security, Cryptogr
 - [Shells Overview](https://tryhackme.com/room/shellsoverview)
 - [SOC Fundamentals](https://tryhackme.com/room/socfundamentals)
 - [Digital Forensics Fundamentals](https://tryhackme.com/room/digitalforensicsfundamentals)
+- [Incident Response Fundamentals](https://tryhackme.com/room/incidentresponsefundamentals)
 
-> _Last updated: 2026-07-12 03:27 UTC_
+> _Last updated: 2026-07-12 23:09 UTC_
 <!-- THM-STATS:END -->
