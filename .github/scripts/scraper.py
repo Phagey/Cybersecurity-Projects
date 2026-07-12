@@ -4,9 +4,9 @@ from datetime import datetime
 # ✏️ UPDATE THESE MANUALLY whenever your stats change
 USERNAME = "ayomiolutoye"
 POINTS = 34
-STREAK = 92
+STREAK = 96
 RANK = "[0x8] HACKER"
-RANK_POSITION = 157127
+RANK_POSITION = 154113
 TOP_PERCENT = "7%"
 
 COMPLETED_ROOMS = [
@@ -79,6 +79,7 @@ COMPLETED_ROOMS = [
     {"title": "Shells Overview", "url": "https://tryhackme.com/room/shellsoverview"},
     {"title": "SOC Fundamentals", "url": "https://tryhackme.com/room/socfundamentals"},  # ⚠️ verify this slug matches the actual room URL
     {"title": "Digital Forensics Fundamentals", "url": "https://tryhackme.com/room/digitalforensicsfundamentals"},  # ⚠️ verify this slug matches the actual room URL
+    {"title": "Incident Response Fundamentals", "url": "https://tryhackme.com/room/incidentresponsefundamentals"},
 ]
 
 BADGES = [
@@ -103,7 +104,8 @@ SKILLS = [
     "Web Application Security", "Cryptography", "SQL",
     "Nmap", "Metasploit", "Wireshark", "Tcpdump",
     "PowerShell", "Python", "JavaScript", "Cloud Computing",
-    "Offensive Security", "Defensive Security", "Digital Forensics"
+    "Offensive Security", "Defensive Security", "Digital Forensics",
+    "Incident Response"
 ]
 
 
