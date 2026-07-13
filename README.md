@@ -10,7 +10,7 @@ Tracking my cybersecurity learning journey
 | 👤 Username | [ayomiolutoye](https://tryhackme.com/p/ayomiolutoye) |
 | 🏆 Rank | [0x8] HACKER (#154113 — Top 7%) |
 | 💰 Points | 34 |
-| 🔥 Current Streak | 96 days |
+| 🔥 Current Streak | 97 days |
 | ✅ Rooms Completed | 71 |
 | 🎖️ Badges Earned | 14 |
 
@@ -106,5 +106,5 @@ Networking, Linux, Windows, Active Directory, Web Application Security, Cryptogr
 - [Incident Response Fundamentals](https://tryhackme.com/room/incidentresponsefundamentals)
 - [Logs Fundamentals](https://tryhackme.com/room/logsfundamentals)
 
-> _Last updated: 2026-07-13 22:11 UTC_
+> _Last updated: 2026-07-13 22:14 UTC_
 <!-- THM-STATS:END -->
