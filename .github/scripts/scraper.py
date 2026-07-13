@@ -80,6 +80,7 @@ COMPLETED_ROOMS = [
     {"title": "SOC Fundamentals", "url": "https://tryhackme.com/room/socfundamentals"},  # ⚠️ verify this slug matches the actual room URL
     {"title": "Digital Forensics Fundamentals", "url": "https://tryhackme.com/room/digitalforensicsfundamentals"},  # ⚠️ verify this slug matches the actual room URL
     {"title": "Incident Response Fundamentals", "url": "https://tryhackme.com/room/incidentresponsefundamentals"},
+    {"title": "Logs Fundamentals", "url": "https://tryhackme.com/room/logsfundamentals"},  # ⚠️ verify this slug matches the actual room URL — added after completing tonight
 ]
 
 BADGES = [
