@@ -11,7 +11,7 @@ Tracking my cybersecurity learning journey
 | 🏆 Rank | [0x8] HACKER (#154113 — Top 7%) |
 | 💰 Points | 34 |
 | 🔥 Current Streak | 96 days |
-| ✅ Rooms Completed | 70 |
+| ✅ Rooms Completed | 71 |
 | 🎖️ Badges Earned | 14 |
 
 ### 🧠 Skills Gained
@@ -33,7 +33,7 @@ Networking, Linux, Windows, Active Directory, Web Application Security, Cryptogr
 - 🗡️ Sword Apprentice — Completing the SQLMap room
 - 🔥 90 Day Streak — Hacking for 90 days in a row
 
-### 📚 Completed Rooms (70)
+### 📚 Completed Rooms (71)
 - [How Websites Work](https://tryhackme.com/room/howwebsiteswork)
 - [Putting it all together](https://tryhackme.com/room/puttingitalltogether)
 - [DNS in Detail](https://tryhackme.com/room/dnsindetail)
@@ -104,6 +104,7 @@ Networking, Linux, Windows, Active Directory, Web Application Security, Cryptogr
 - [SOC Fundamentals](https://tryhackme.com/room/socfundamentals)
 - [Digital Forensics Fundamentals](https://tryhackme.com/room/digitalforensicsfundamentals)
 - [Incident Response Fundamentals](https://tryhackme.com/room/incidentresponsefundamentals)
+- [Logs Fundamentals](https://tryhackme.com/room/logsfundamentals)
 
-> _Last updated: 2026-07-13 03:30 UTC_
+> _Last updated: 2026-07-13 22:11 UTC_
 <!-- THM-STATS:END -->
