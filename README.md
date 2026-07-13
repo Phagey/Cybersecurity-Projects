@@ -105,5 +105,5 @@ Networking, Linux, Windows, Active Directory, Web Application Security, Cryptogr
 - [Digital Forensics Fundamentals](https://tryhackme.com/room/digitalforensicsfundamentals)
 - [Incident Response Fundamentals](https://tryhackme.com/room/incidentresponsefundamentals)
 
-> _Last updated: 2026-07-12 23:09 UTC_
+> _Last updated: 2026-07-13 03:30 UTC_
 <!-- THM-STATS:END -->
