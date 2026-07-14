@@ -106,5 +106,5 @@ Networking, Linux, Windows, Active Directory, Web Application Security, Cryptogr
 - [Incident Response Fundamentals](https://tryhackme.com/room/incidentresponsefundamentals)
 - [Logs Fundamentals](https://tryhackme.com/room/logsfundamentals)
 
-> _Last updated: 2026-07-13 22:14 UTC_
+> _Last updated: 2026-07-14 02:52 UTC_
 <!-- THM-STATS:END -->
