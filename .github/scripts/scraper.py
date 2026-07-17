@@ -4,10 +4,10 @@ from datetime import datetime
 # ✏️ UPDATE THESE MANUALLY whenever your stats change
 USERNAME = "ayomiolutoye"
 POINTS = 34
-STREAK = 97
+STREAK = 101
 RANK = "[0x8] HACKER"
-RANK_POSITION = 154113
-TOP_PERCENT = "7%"
+RANK_POSITION = 145695
+TOP_PERCENT = "6%"
 
 COMPLETED_ROOMS = [
     {"title": "How Websites Work", "url": "https://tryhackme.com/room/howwebsiteswork"},
@@ -29,7 +29,7 @@ COMPLETED_ROOMS = [
     {"title": "Operating System Security", "url": "https://tryhackme.com/room/operatingsystemsecurity"},
     {"title": "Search Skills", "url": "https://tryhackme.com/room/searchskills"},
     {"title": "Operating Systems: Introduction", "url": "https://tryhackme.com/room/operatingsystemsintroduction"},
-    {"title": "Search Skills", "url": "https://tryhackme.com/room/searchskills"},  # ⚠️ this room shows up twice on your profile (likely counted under two different learning paths) — leaving it duplicated so the total matches your 68
+    {"title": "Search Skills", "url": "https://tryhackme.com/room/searchskills"},  # ⚠️ this room shows up twice on your profile (likely counted under two different learning paths) — leaving it duplicated so the total matches your profile count
     {"title": "Linux CLI Basics", "url": "https://tryhackme.com/room/linuxclibasics"},
     {"title": "Data Representation", "url": "https://tryhackme.com/room/datarepresentation"},
     {"title": "Data Encoding", "url": "https://tryhackme.com/room/dataencoding"},
@@ -80,7 +80,9 @@ COMPLETED_ROOMS = [
     {"title": "SOC Fundamentals", "url": "https://tryhackme.com/room/socfundamentals"},  # ⚠️ verify this slug matches the actual room URL
     {"title": "Digital Forensics Fundamentals", "url": "https://tryhackme.com/room/digitalforensicsfundamentals"},  # ⚠️ verify this slug matches the actual room URL
     {"title": "Incident Response Fundamentals", "url": "https://tryhackme.com/room/incidentresponsefundamentals"},
-    {"title": "Logs Fundamentals", "url": "https://tryhackme.com/room/logsfundamentals"},  # ⚠️ verify this slug matches the actual room URL — added after completing tonight
+    {"title": "Logs Fundamentals", "url": "https://tryhackme.com/room/logsfundamentals"},  # ⚠️ verify this slug matches the actual room URL
+    {"title": "Junior Security Analyst Intro", "url": "https://tryhackme.com/room/jrsecanalystintro"},  # ⚠️ verify this slug matches the actual room URL — added new
+    {"title": "Splunk: The Basics", "url": "https://tryhackme.com/room/splunk101"},  # ⚠️ verify this slug matches the actual room URL — added new
 ]
 
 BADGES = [
@@ -98,6 +100,11 @@ BADGES = [
     "🪟 Blue — Hacking into Windows via EternalBlue",
     "🗡️ Sword Apprentice — Completing the SQLMap room",
     "🔥 90 Day Streak — Hacking for 90 days in a row",
+    # ⚠️ Your profile now shows 14 badges total and a 101-day streak — same count as before this
+    # update, even though 101 days should have unlocked a "100 Day Streak" badge past the 90-day
+    # one above. Worth checking your Badges tab on TryHackMe directly to see the real current list
+    # before publishing, since this file can't tell which badge replaced/joined which from the
+    # profile screenshot alone.
 ]
 
 SKILLS = [
@@ -106,7 +113,7 @@ SKILLS = [
     "Nmap", "Metasploit", "Wireshark", "Tcpdump",
     "PowerShell", "Python", "JavaScript", "Cloud Computing",
     "Offensive Security", "Defensive Security", "Digital Forensics",
-    "Incident Response"
+    "Incident Response", "Splunk", "SIEM"
 ]
 
 
@@ -114,7 +121,7 @@ def build_readme_section():
     rooms_md = "\n".join(
         [f"- [{r['title']}]({r['url']})" for r in COMPLETED_ROOMS]
     )
-    badges_md = "\n".join([f"- {b}" for b in BADGES]) or "_Visit your profile → Badges tab to see all 12 badges!_"
+    badges_md = "\n".join([f"- {b}" for b in BADGES]) or "_Visit your profile → Badges tab to see all 14 badges!_"
     skills_md = ", ".join(SKILLS)
     last_updated = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
 
@@ -128,7 +135,7 @@ def build_readme_section():
 | 💰 Points | {POINTS} |
 | 🔥 Current Streak | {STREAK} days |
 | ✅ Rooms Completed | {len(COMPLETED_ROOMS)} |
-| 🎖️ Badges Earned | {len(BADGES) or 12} |
+| 🎖️ Badges Earned | {len(BADGES) or 14} |
 
 ### 🧠 Skills Gained
 {skills_md}
