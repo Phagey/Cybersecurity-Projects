@@ -108,5 +108,5 @@ Networking, Linux, Windows, Active Directory, Web Application Security, Cryptogr
 - [Junior Security Analyst Intro](https://tryhackme.com/room/jrsecanalystintro)
 - [Splunk: The Basics](https://tryhackme.com/room/splunk101)
 
-> _Last updated: 2026-07-17 20:53 UTC_
+> _Last updated: 2026-07-18 02:52 UTC_
 <!-- THM-STATS:END -->
