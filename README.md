@@ -8,14 +8,14 @@ Tracking my cybersecurity learning journey
 | Stat | Value |
 |------|-------|
 | 👤 Username | [ayomiolutoye](https://tryhackme.com/p/ayomiolutoye) |
-| 🏆 Rank | [0x8] HACKER (#145695 — Top 6%) |
+| 🏆 Rank | [0x8] HACKER (#143956 — Top 6%) |
 | 💰 Points | 34 |
-| 🔥 Current Streak | 101 days |
-| ✅ Rooms Completed | 73 |
+| 🔥 Current Streak | 102 days |
+| ✅ Rooms Completed | 74 |
 | 🎖️ Badges Earned | 14 |
 
 ### 🧠 Skills Gained
-Networking, Linux, Windows, Active Directory, Web Application Security, Cryptography, SQL, Nmap, Metasploit, Wireshark, Tcpdump, PowerShell, Python, JavaScript, Cloud Computing, Offensive Security, Defensive Security, Digital Forensics, Incident Response, Splunk, SIEM
+Networking, Linux, Windows, Active Directory, Web Application Security, Cryptography, SQL, Nmap, Metasploit, Wireshark, Tcpdump, PowerShell, Python, JavaScript, Cloud Computing, Offensive Security, Defensive Security, Digital Forensics, Incident Response, Splunk, SIEM, Firewalls
 
 ### 🎖️ Badges
 - 🎳 First Four — Completing four rooms in your first week
@@ -33,7 +33,7 @@ Networking, Linux, Windows, Active Directory, Web Application Security, Cryptogr
 - 🗡️ Sword Apprentice — Completing the SQLMap room
 - 🔥 90 Day Streak — Hacking for 90 days in a row
 
-### 📚 Completed Rooms (73)
+### 📚 Completed Rooms (74)
 - [How Websites Work](https://tryhackme.com/room/howwebsiteswork)
 - [Putting it all together](https://tryhackme.com/room/puttingitalltogether)
 - [DNS in Detail](https://tryhackme.com/room/dnsindetail)
@@ -107,6 +107,7 @@ Networking, Linux, Windows, Active Directory, Web Application Security, Cryptogr
 - [Logs Fundamentals](https://tryhackme.com/room/logsfundamentals)
 - [Junior Security Analyst Intro](https://tryhackme.com/room/jrsecanalystintro)
 - [Splunk: The Basics](https://tryhackme.com/room/splunk101)
+- [Firewall Fundamentals](https://tryhackme.com/room/firewallfundamentals)
 
-> _Last updated: 2026-07-18 02:52 UTC_
+> _Last updated: 2026-07-18 21:01 UTC_
 <!-- THM-STATS:END -->
