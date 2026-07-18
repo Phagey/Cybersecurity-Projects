@@ -4,9 +4,9 @@ from datetime import datetime
 # ✏️ UPDATE THESE MANUALLY whenever your stats change
 USERNAME = "ayomiolutoye"
 POINTS = 34
-STREAK = 101
+STREAK = 102
 RANK = "[0x8] HACKER"
-RANK_POSITION = 145695
+RANK_POSITION = 143956
 TOP_PERCENT = "6%"
 
 COMPLETED_ROOMS = [
@@ -77,12 +77,13 @@ COMPLETED_ROOMS = [
     {"title": "Gobuster: The Basics", "url": "https://tryhackme.com/room/gobusterbasics"},
     {"title": "SQLMap: The Basics", "url": "https://tryhackme.com/room/sqlmap"},
     {"title": "Shells Overview", "url": "https://tryhackme.com/room/shellsoverview"},
-    {"title": "SOC Fundamentals", "url": "https://tryhackme.com/room/socfundamentals"},  # ⚠️ verify this slug matches the actual room URL
-    {"title": "Digital Forensics Fundamentals", "url": "https://tryhackme.com/room/digitalforensicsfundamentals"},  # ⚠️ verify this slug matches the actual room URL
+    {"title": "SOC Fundamentals", "url": "https://tryhackme.com/room/socfundamentals"},
+    {"title": "Digital Forensics Fundamentals", "url": "https://tryhackme.com/room/digitalforensicsfundamentals"},
     {"title": "Incident Response Fundamentals", "url": "https://tryhackme.com/room/incidentresponsefundamentals"},
-    {"title": "Logs Fundamentals", "url": "https://tryhackme.com/room/logsfundamentals"},  # ⚠️ verify this slug matches the actual room URL
-    {"title": "Junior Security Analyst Intro", "url": "https://tryhackme.com/room/jrsecanalystintro"},  # ⚠️ verify this slug matches the actual room URL — added new
-    {"title": "Splunk: The Basics", "url": "https://tryhackme.com/room/splunk101"},  # ⚠️ verify this slug matches the actual room URL — added new
+    {"title": "Logs Fundamentals", "url": "https://tryhackme.com/room/logsfundamentals"},
+    {"title": "Junior Security Analyst Intro", "url": "https://tryhackme.com/room/jrsecanalystintro"},
+    {"title": "Splunk: The Basics", "url": "https://tryhackme.com/room/splunk101"},
+    {"title": "Firewall Fundamentals", "url": "https://tryhackme.com/room/firewallfundamentals"},
 ]
 
 BADGES = [
@@ -100,11 +101,6 @@ BADGES = [
     "🪟 Blue — Hacking into Windows via EternalBlue",
     "🗡️ Sword Apprentice — Completing the SQLMap room",
     "🔥 90 Day Streak — Hacking for 90 days in a row",
-    # ⚠️ Your profile now shows 14 badges total and a 101-day streak — same count as before this
-    # update, even though 101 days should have unlocked a "100 Day Streak" badge past the 90-day
-    # one above. Worth checking your Badges tab on TryHackMe directly to see the real current list
-    # before publishing, since this file can't tell which badge replaced/joined which from the
-    # profile screenshot alone.
 ]
 
 SKILLS = [
@@ -113,7 +109,7 @@ SKILLS = [
     "Nmap", "Metasploit", "Wireshark", "Tcpdump",
     "PowerShell", "Python", "JavaScript", "Cloud Computing",
     "Offensive Security", "Defensive Security", "Digital Forensics",
-    "Incident Response", "Splunk", "SIEM"
+    "Incident Response", "Splunk", "SIEM", "Firewalls"
 ]
 
 
