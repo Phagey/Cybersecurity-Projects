@@ -109,5 +109,5 @@ Networking, Linux, Windows, Active Directory, Web Application Security, Cryptogr
 - [Splunk: The Basics](https://tryhackme.com/room/splunk101)
 - [Firewall Fundamentals](https://tryhackme.com/room/firewallfundamentals)
 
-> _Last updated: 2026-07-18 21:01 UTC_
+> _Last updated: 2026-07-19 03:23 UTC_
 <!-- THM-STATS:END -->
