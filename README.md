@@ -8,17 +8,17 @@ Tracking my cybersecurity learning journey
 | Stat | Value |
 |------|-------|
 | 👤 Username | [ayomiolutoye](https://tryhackme.com/p/ayomiolutoye) |
-| 🏆 Rank | [0x8] HACKER (#143956 — Top 6%) |
+| 🏆 Rank | [0x8] HACKER (#142243 — Top 6%) |
 | 💰 Points | 34 |
-| 🔥 Current Streak | 102 days |
-| ✅ Rooms Completed | 74 |
+| 🔥 Current Streak | 104 days |
+| ✅ Rooms Completed | 75 |
 | 🎖️ Badges Earned | 14 |
 
 ### 🧠 Skills Gained
-Networking, Linux, Windows, Active Directory, Web Application Security, Cryptography, SQL, Nmap, Metasploit, Wireshark, Tcpdump, PowerShell, Python, JavaScript, Cloud Computing, Offensive Security, Defensive Security, Digital Forensics, Incident Response, Splunk, SIEM, Firewalls
+Networking, Linux, Windows, Active Directory, Web Application Security, Cryptography, SQL, Nmap, Metasploit, Wireshark, Tcpdump, PowerShell, Python, JavaScript, Cloud Computing, Offensive Security, Defensive Security, Digital Forensics, Incident Response, Splunk, SIEM, Firewalls, IDS/IPS, Snort
 
 ### 🎖️ Badges
-- 🎳 First Four — Completing four rooms in your first week
+-  bowling First Four — Completing four rooms in your first week
 - 🔥 3 Day Streak — Achieving a 3 day hacking streak
 - 🌐 Networking Nerd — Completing the Network Fundamentals module
 - 🔥 7 Day Streak — Achieving a 7 day hacking streak
@@ -33,7 +33,7 @@ Networking, Linux, Windows, Active Directory, Web Application Security, Cryptogr
 - 🗡️ Sword Apprentice — Completing the SQLMap room
 - 🔥 90 Day Streak — Hacking for 90 days in a row
 
-### 📚 Completed Rooms (74)
+### 📚 Completed Rooms (75)
 - [How Websites Work](https://tryhackme.com/room/howwebsiteswork)
 - [Putting it all together](https://tryhackme.com/room/puttingitalltogether)
 - [DNS in Detail](https://tryhackme.com/room/dnsindetail)
@@ -108,6 +108,7 @@ Networking, Linux, Windows, Active Directory, Web Application Security, Cryptogr
 - [Junior Security Analyst Intro](https://tryhackme.com/room/jrsecanalystintro)
 - [Splunk: The Basics](https://tryhackme.com/room/splunk101)
 - [Firewall Fundamentals](https://tryhackme.com/room/firewallfundamentals)
+- [IDS Fundamentals](https://tryhackme.com/room/idsfundamentals)
 
-> _Last updated: 2026-07-20 03:52 UTC_
+> _Last updated: 2026-07-20 17:36 UTC_
 <!-- THM-STATS:END -->
