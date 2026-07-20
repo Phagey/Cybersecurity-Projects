@@ -1,12 +1,12 @@
 import re
 from datetime import datetime
 
-# ✏️ UPDATE THESE MANUALLY whenever your stats change
+# ✏️ UPDATED FROM PROFILE SCREENSHOT
 USERNAME = "ayomiolutoye"
 POINTS = 34
-STREAK = 102
+STREAK = 104
 RANK = "[0x8] HACKER"
-RANK_POSITION = 143956
+RANK_POSITION = 142243
 TOP_PERCENT = "6%"
 
 COMPLETED_ROOMS = [
@@ -29,7 +29,7 @@ COMPLETED_ROOMS = [
     {"title": "Operating System Security", "url": "https://tryhackme.com/room/operatingsystemsecurity"},
     {"title": "Search Skills", "url": "https://tryhackme.com/room/searchskills"},
     {"title": "Operating Systems: Introduction", "url": "https://tryhackme.com/room/operatingsystemsintroduction"},
-    {"title": "Search Skills", "url": "https://tryhackme.com/room/searchskills"},  # ⚠️ this room shows up twice on your profile (likely counted under two different learning paths) — leaving it duplicated so the total matches your profile count
+    {"title": "Search Skills", "url": "https://tryhackme.com/room/searchskills"},  # Duplicated on THM profile
     {"title": "Linux CLI Basics", "url": "https://tryhackme.com/room/linuxclibasics"},
     {"title": "Data Representation", "url": "https://tryhackme.com/room/datarepresentation"},
     {"title": "Data Encoding", "url": "https://tryhackme.com/room/dataencoding"},
@@ -84,10 +84,11 @@ COMPLETED_ROOMS = [
     {"title": "Junior Security Analyst Intro", "url": "https://tryhackme.com/room/jrsecanalystintro"},
     {"title": "Splunk: The Basics", "url": "https://tryhackme.com/room/splunk101"},
     {"title": "Firewall Fundamentals", "url": "https://tryhackme.com/room/firewallfundamentals"},
+    {"title": "IDS Fundamentals", "url": "https://tryhackme.com/room/idsfundamentals"},
 ]
 
 BADGES = [
-    "🎳 First Four — Completing four rooms in your first week",
+    " bowling First Four — Completing four rooms in your first week",
     "🔥 3 Day Streak — Achieving a 3 day hacking streak",
     "🌐 Networking Nerd — Completing the Network Fundamentals module",
     "🔥 7 Day Streak — Achieving a 7 day hacking streak",
@@ -109,7 +110,7 @@ SKILLS = [
     "Nmap", "Metasploit", "Wireshark", "Tcpdump",
     "PowerShell", "Python", "JavaScript", "Cloud Computing",
     "Offensive Security", "Defensive Security", "Digital Forensics",
-    "Incident Response", "Splunk", "SIEM", "Firewalls"
+    "Incident Response", "Splunk", "SIEM", "Firewalls", "IDS/IPS", "Snort"
 ]
 
 
