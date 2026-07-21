@@ -4,9 +4,9 @@ from datetime import datetime
 # ✏️ UPDATED FROM PROFILE SCREENSHOT
 USERNAME = "ayomiolutoye"
 POINTS = 34
-STREAK = 104
-RANK = "[0x8] HACKER"
-RANK_POSITION = 142243
+STREAK = 105
+RANK = "[0x9] MAGE"
+RANK_POSITION = 139662
 TOP_PERCENT = "6%"
 
 COMPLETED_ROOMS = [
@@ -85,6 +85,7 @@ COMPLETED_ROOMS = [
     {"title": "Splunk: The Basics", "url": "https://tryhackme.com/room/splunk101"},
     {"title": "Firewall Fundamentals", "url": "https://tryhackme.com/room/firewallfundamentals"},
     {"title": "IDS Fundamentals", "url": "https://tryhackme.com/room/idsfundamentals"},
+    {"title": "Vulnerability Scanner Overview", "url": "https://tryhackme.com/room/vulnerabilityscanneroverview"},
 ]
 
 BADGES = [
@@ -110,7 +111,8 @@ SKILLS = [
     "Nmap", "Metasploit", "Wireshark", "Tcpdump",
     "PowerShell", "Python", "JavaScript", "Cloud Computing",
     "Offensive Security", "Defensive Security", "Digital Forensics",
-    "Incident Response", "Splunk", "SIEM", "Firewalls", "IDS/IPS", "Snort"
+    "Incident Response", "Splunk", "SIEM", "Firewalls", "IDS/IPS", "Snort",
+    "Vulnerability Assessment", "OpenVAS", "Nessus"
 ]
 
 
