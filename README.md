@@ -8,14 +8,14 @@ Tracking my cybersecurity learning journey
 | Stat | Value |
 |------|-------|
 | 👤 Username | [ayomiolutoye](https://tryhackme.com/p/ayomiolutoye) |
-| 🏆 Rank | [0x8] HACKER (#142243 — Top 6%) |
+| 🏆 Rank | [0x9] MAGE (#139662 — Top 6%) |
 | 💰 Points | 34 |
-| 🔥 Current Streak | 104 days |
-| ✅ Rooms Completed | 75 |
+| 🔥 Current Streak | 105 days |
+| ✅ Rooms Completed | 76 |
 | 🎖️ Badges Earned | 14 |
 
 ### 🧠 Skills Gained
-Networking, Linux, Windows, Active Directory, Web Application Security, Cryptography, SQL, Nmap, Metasploit, Wireshark, Tcpdump, PowerShell, Python, JavaScript, Cloud Computing, Offensive Security, Defensive Security, Digital Forensics, Incident Response, Splunk, SIEM, Firewalls, IDS/IPS, Snort
+Networking, Linux, Windows, Active Directory, Web Application Security, Cryptography, SQL, Nmap, Metasploit, Wireshark, Tcpdump, PowerShell, Python, JavaScript, Cloud Computing, Offensive Security, Defensive Security, Digital Forensics, Incident Response, Splunk, SIEM, Firewalls, IDS/IPS, Snort, Vulnerability Assessment, OpenVAS, Nessus
 
 ### 🎖️ Badges
 -  bowling First Four — Completing four rooms in your first week
@@ -33,7 +33,7 @@ Networking, Linux, Windows, Active Directory, Web Application Security, Cryptogr
 - 🗡️ Sword Apprentice — Completing the SQLMap room
 - 🔥 90 Day Streak — Hacking for 90 days in a row
 
-### 📚 Completed Rooms (75)
+### 📚 Completed Rooms (76)
 - [How Websites Work](https://tryhackme.com/room/howwebsiteswork)
 - [Putting it all together](https://tryhackme.com/room/puttingitalltogether)
 - [DNS in Detail](https://tryhackme.com/room/dnsindetail)
@@ -109,6 +109,7 @@ Networking, Linux, Windows, Active Directory, Web Application Security, Cryptogr
 - [Splunk: The Basics](https://tryhackme.com/room/splunk101)
 - [Firewall Fundamentals](https://tryhackme.com/room/firewallfundamentals)
 - [IDS Fundamentals](https://tryhackme.com/room/idsfundamentals)
+- [Vulnerability Scanner Overview](https://tryhackme.com/room/vulnerabilityscanneroverview)
 
-> _Last updated: 2026-07-20 17:36 UTC_
+> _Last updated: 2026-07-21 00:03 UTC_
 <!-- THM-STATS:END -->
