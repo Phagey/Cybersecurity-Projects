@@ -111,5 +111,5 @@ Networking, Linux, Windows, Active Directory, Web Application Security, Cryptogr
 - [IDS Fundamentals](https://tryhackme.com/room/idsfundamentals)
 - [Vulnerability Scanner Overview](https://tryhackme.com/room/vulnerabilityscanneroverview)
 
-> _Last updated: 2026-07-23 03:22 UTC_
+> _Last updated: 2026-07-24 03:16 UTC_
 <!-- THM-STATS:END -->
